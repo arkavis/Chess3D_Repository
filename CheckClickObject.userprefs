@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Network Script\GameLobby.js">
+    <Files>
+      <File FileName="Assets\SDSDevelopmentTool\SDSAction.cs" Line="28" Column="1" />
+      <File FileName="Assets\Script\Player.cs" Line="20" Column="3" />
+      <File FileName="Assets\Network Script\GameLobby.js" Line="184" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
